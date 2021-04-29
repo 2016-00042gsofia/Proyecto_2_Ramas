@@ -1,0 +1,8 @@
+.menugiratorio{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(179, 193, 255);
+    border-radius: 15px;
+    border-color: rgb(255, 215, 253);
+    border-style: solid;
+}
